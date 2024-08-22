@@ -7,7 +7,7 @@ public class StartBtn : MonoBehaviour
     [SerializeField] GameObject _panel;
     public void OnClickPlayBtn()
     {
-        _panel.SetActive(false);
+        _panel.SetActive(false); // ÆÐ³Î ´Ý±â
         
     }
 
