@@ -44,3 +44,6 @@ TagManager:
   - name: Solenoid
     uniqueID: 2981225215
     locked: 0
+  - name: Electric
+    uniqueID: 2831211271
+    locked: 0
